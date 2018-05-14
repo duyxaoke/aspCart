@@ -115,8 +115,8 @@ namespace aspCart.Web.Areas.Admin.Controllers
                 // check if name exist
                 if (_dataHelper.CheckForDuplicate(ServiceType.Product, DataType.Name, model.Name))
                 {
-                    ModelState.AddModelError(string.Empty, "Product name already exist");
-                    hasError = true;
+                        ModelState.AddModelError(string.Empty, "Product name already exist");
+                        hasError = true;
                 }
 
                 // create seo friendly url if the user didn't provide
