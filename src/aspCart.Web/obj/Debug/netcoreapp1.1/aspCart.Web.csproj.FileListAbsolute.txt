@@ -1,0 +1,17 @@
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\bin\Debug\netcoreapp1.1\aspCart.Web.deps.json
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\bin\Debug\netcoreapp1.1\aspCart.Web.runtimeconfig.json
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\bin\Debug\netcoreapp1.1\aspCart.Web.runtimeconfig.dev.json
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\bin\Debug\netcoreapp1.1\aspCart.Web.dll
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\bin\Debug\netcoreapp1.1\aspCart.Web.pdb
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\bin\Debug\netcoreapp1.1\aspCart.Core.dll
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\bin\Debug\netcoreapp1.1\aspCart.Infrastructure.dll
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\bin\Debug\netcoreapp1.1\aspCart.Infrastructure.pdb
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\bin\Debug\netcoreapp1.1\aspCart.Core.pdb
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\obj\Debug\netcoreapp1.1\aspCart.Web.csprojResolveAssemblyReference.cache
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\obj\Debug\netcoreapp1.1\aspCart.Web.csproj.CoreCompileInputs.cache
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\obj\Debug\netcoreapp1.1\aspCart.Web.AssemblyInfoInputs.cache
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\obj\Debug\netcoreapp1.1\aspCart.Web.AssemblyInfo.cs
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\obj\Debug\netcoreapp1.1\aspCart.Web.csproj.CopyComplete
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\obj\Debug\netcoreapp1.1\aspCart.Web.dll
+C:\Users\tranlekhanhduy\Desktop\aspCart-master\src\aspCart.Web\obj\Debug\netcoreapp1.1\aspCart.Web.pdb
